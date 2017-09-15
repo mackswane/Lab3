@@ -1,5 +1,5 @@
 # Lab3
-// question 
+// question 39
 #include <iostream>
 using namespace std;
 int main() 
