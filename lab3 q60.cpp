@@ -1,5 +1,5 @@
 # Lab3
-//ques 61
+//ques 60
 #include <iostream>
 #include <cmath>
 using namespace std;
